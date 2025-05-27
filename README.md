@@ -2,7 +2,7 @@
 
 ######
 
-- JDK 17
+- JDK 18
 - Maven 3.9
 - MySQL 8
 
